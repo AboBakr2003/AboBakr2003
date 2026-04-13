@@ -1,6 +1,6 @@
 # Hi there 👋 I'm AbuBakr
 
-<h2 style="border-bottom: none;">💻 Frontend</h2>
+**💻 Front-end Developer**
 specializing in React.JS & Next.JS
 I build fast, responsive, and user-friendly web applications with modern technologies.
 
