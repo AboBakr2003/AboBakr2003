@@ -34,7 +34,7 @@ I build fast, responsive, and user-friendly web applications with modern technol
 ### 📦 Forms & Validation
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
-![Yup](https://img.shields.io/badge/Yup-000000?style=for-the-badge)
+![Yup](https://img.shields.io/badge/Yup-F8DE22?style=for-the-badge)
 
 ---
 
