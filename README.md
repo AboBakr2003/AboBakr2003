@@ -6,7 +6,7 @@ I build fast, responsive, and user-friendly web applications with modern technol
 
 ---
 
-## 💻 Frontend
+#                                           💻 Frontend
 
 ---
 
