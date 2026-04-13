@@ -42,7 +42,7 @@ I build fast, responsive, and user-friendly web applications with modern technol
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![API Dog](https://img.shields.io/badge/API_Dog-FFB300?style=for-the-badge)
+![API Dog](https://img.shields.io/badge/API_Dog-008BFF?style=for-the-badge)
 
 ---
 
