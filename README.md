@@ -20,7 +20,7 @@ I build fast, responsive, and user-friendly web applications with modern technol
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### 🎨 UI & Animation
-![Motion](https://img.shields.io/badge/Motion-F7DF1E?style=for-the-badge)
+![Motion](https://img.shields.io/badge/Motion-F7DF1E?style=for-the-badge&logo=motion&logoColor=white)
 ![MaterialUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![ShadcnUI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
