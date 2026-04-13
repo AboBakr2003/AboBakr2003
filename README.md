@@ -25,7 +25,7 @@ I build fast, responsive, and user-friendly web applications with modern technol
 ![ShadcnUI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge)
 
 ### 🧠 State Management
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge)
 
 ### 📦 Forms & Validation
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
