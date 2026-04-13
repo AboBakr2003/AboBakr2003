@@ -1,6 +1,6 @@
 # Hi there 👋 I'm AbuBakr
 
-🚀 Frontend Developer specializing in React & Next.js
+🚀 Frontend Developer specializing in React.JS & Next.JS
 
 I build fast, responsive, and user-friendly web applications with modern technologies.
 
