@@ -43,14 +43,6 @@ I build fast, responsive, and user-friendly web applications with modern technol
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
-
 ## 📫 Connect with me
 
 - LinkedIn: www.linkedin.com/in/abubakr-haty-2256b4223
