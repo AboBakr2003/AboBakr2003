@@ -22,7 +22,7 @@ I build fast, responsive, and user-friendly web applications with modern technol
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![MaterialUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![ShadcnUI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge)
-![Framer Motion](https://img.shields.io/badge/Motion-F7DF1E?style=for-the-badge&logo=framermotion&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer-Motion-F7DF1E?style=for-the-badge&logo=framermotion&logoColor=white)
 
 ### 🧠 State Management
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge)
